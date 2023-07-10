@@ -1,4 +1,5 @@
 Sample Preview: 
 
-https://github.com/roni-2004/Drumify/assets/112800761/ff2150bc-682a-42d9-89e0-d7b123dab96d
+https://github.com/roni-2004/Drumify/assets/112800761/a2c15240-63f6-4ade-ad62-58be4b6fa50b
+
 
